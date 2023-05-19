@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.env
+.mypy_cache/
+Lib
+Scripts
+__pycache__/
